@@ -1,4 +1,4 @@
-# Asray's Chess Engine
+# KnightShiftChessEngine
 
 ## Overview
 
